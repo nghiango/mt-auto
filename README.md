@@ -1,2 +1,2 @@
 # mt-auto
-test
+test no
